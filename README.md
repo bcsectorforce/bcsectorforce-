@@ -12,10 +12,9 @@ Open for contributions from the scientific community.
 Technologies Used
 HTML, CSS, JavaScript – Front-end for the database interface.
 Cloudflare Workers – Hosting the database efficiently.
-GitHub Pages (optional for deployment) – Hosting a live version of the project.
 How to Use the Database
 Access the Database: Visit the live site at https://data.jldege31.workers.dev to browse the list of resources.
-Search and Filter: Use the search functionality (if added) to quickly find a resource by name or category.
+Search and Filter: Use the search functionality to quickly find a resource by name or category.
 Contribute: If you'd like to contribute resources or improve the database, feel free to fork the repository and make a pull request with your additions.
 How to Contribute
 We welcome contributions! If you'd like to add a new resource or improve the database:
@@ -34,4 +33,4 @@ Contact
 For questions or suggestions, feel free to open an issue or reach out to the project maintainers:
 
 GitHub: https://github.com/bcsectorforce
-Email: [your-email@example.com] (replace with your actual email)
+Email: [bellybutton7@proton.me] 
