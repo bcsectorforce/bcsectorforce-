@@ -26,7 +26,7 @@ Commit your changes with a clear message explaining your updates.
 Push your changes to your fork and create a pull request.
 License
 
-This project is licensed under the MIT License. See the [LICENSE](bcsectorforce/license) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](bcsectorforce-/license) file for more details.
 
 Contact
 
